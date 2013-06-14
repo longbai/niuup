@@ -4,3 +4,6 @@
 [submodule "SCEvents"]
 	path = SCEvents
 	url = git://github.com/mz2/SCEvents.git
+[submodule "ios-sdk"]
+	path = ios-sdk
+	url = git@github.com:qiniu/ios-sdk.git
